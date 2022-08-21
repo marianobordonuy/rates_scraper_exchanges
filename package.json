@@ -1,0 +1,18 @@
+{
+  "name": "rates-scraper-exchanges",
+  "version": "1.0.0",
+  "description": "rates scraper and basic api",
+  "main": "index.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "author": "Mariano Bordon",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2",
+    "node-cron": "^3.0.2"
+  }
+}
