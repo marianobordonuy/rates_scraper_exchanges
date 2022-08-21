@@ -2,7 +2,7 @@
   "name": "rates-scraper-exchanges",
   "version": "1.0.0",
   "description": "rates scraper and basic api",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "app.js"
   },
