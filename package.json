@@ -2,9 +2,9 @@
   "name": "rates-scraper-exchanges",
   "version": "1.0.0",
   "description": "rates scraper and basic api",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "app.js"
+    "start": "index.js"
   },
   "author": "Mariano Bordon",
   "license": "ISC",
