@@ -4,7 +4,7 @@
   "description": "rates scraper and basic api",
   "main": "index.js",
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "author": "Mariano Bordon",
   "license": "ISC",
